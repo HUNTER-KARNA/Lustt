@@ -14,7 +14,7 @@ class Config(object):
     CHARA_CHANNEL_ID = "-1002023474262"
     api_id = "20457610"
     api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
-
+    RENDER_EXTERNAL_URL = "https://t.me/+hVnMZwUzEpIyYmI1"
     
 class Production(Config):
     LOGGER = True
