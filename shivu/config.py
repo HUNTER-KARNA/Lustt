@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "6965147961"
     sudo_users = ["6864672519", "7710262210"]
     GROUP_ID = "-1002041586214"
-    TOKEN = "6501935889:AAHvx_2RNyfWQgF3kzGaSSn1E_35m7UszXs"
+    TOKEN = "6501935889:AAGJo6FN5Xrlh13H3uOJfFFB9K-u2lXrzqA"
     mongo_url = "mongodb+srv://soja11082:ZAWSN9qsi6nSBDrz@lust.6krav.mongodb.net/?retryWrites=true&w=majority&appName=lust"
     PHOTO_URL = ["https://telegra.ph/file/7e5398823512d307128a3.jpg", "https://telegra.ph/file/c45dcb207d81e97cb4f6a.jpg", "https://telegra.ph/file/0bc6d65878e8300fbf0f8.jpg", "https://telegra.ph/file/0afb45203ff162ee7227b.jpg"]
     SUPPORT_CHAT = "https://t.me/+hVnMZwUzEpIyYmI1"
